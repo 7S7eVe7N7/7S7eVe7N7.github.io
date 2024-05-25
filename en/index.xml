@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mashkov I.E.</title>
+    <link>http://localhost:44717/en/</link>
+      <atom:link href="http://localhost:44717/en/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mashkov I.E.</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:44717/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Mashkov I.E.</title>
+      <link>http://localhost:44717/en/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>http://localhost:44717/en/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>http://localhost:44717/en/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/reference/content-types/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Loops in Python</title>
+      <link>http://localhost:44717/en/project/project1_python_for_while/</link>
+      <pubDate>Fri, 10 May 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:44717/en/project/project1_python_for_while/</guid>
+      <description>&lt;h1 id=&#34;loops&#34;&gt;Loops&lt;/h1&gt;
+&lt;p&gt;Cycles allow you to perform some action depending on the observance of some condition. Python has the following types of loops:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;for;&lt;/li&gt;
+&lt;li&gt;while.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;while&#34;&gt;While&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Loops is a basic Python programming tool. With their help, developers can quickly perform repetitive actions, automating the process;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In each cycle there is a condition and a code block that are fulfilled as long as the condition is true;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Using for loops, you can iterate data collections by performing transformations;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Python&#34; data-lang=&#34;Python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;range&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;end&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34; &amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;An explicit condition is specified in &lt;strong&gt;while&lt;/strong&gt; loops;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Python&#34; data-lang=&#34;Python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;number&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;while&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;number&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;sa&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;number = &lt;/span&gt;&lt;span class=&#34;si&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;number&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;number&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Program completed&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;Using the &lt;strong&gt;break&lt;/strong&gt; keyword, you can interrupt a loop at any time;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Python&#34; data-lang=&#34;Python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;number&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;while&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;number&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;number&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;number&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# if number = 3, exit the loop&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;k&#34;&gt;break&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;sa&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;number = &lt;/span&gt;&lt;span class=&#34;si&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;number&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Continue&lt;/strong&gt; allows you to skip iterations that do not fit the condition.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Python&#34; data-lang=&#34;Python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;number&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;while&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;number&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;number&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;number&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# if number = 3, go to a new iteration of the loop&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;k&#34;&gt;continue&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;sa&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;number = &lt;/span&gt;&lt;span class=&#34;si&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;number&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>How was my week? Part 4</title>
+      <link>http://localhost:44717/en/post/post7_last-week/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:44717/en/post/post7_last-week/</guid>
+      <description>&lt;h2 id=&#34;nothing-interesting-happened-in-my-life&#34;&gt;Nothing interesting happened in my life&lt;/h2&gt;
+&lt;p&gt;In fact, it is. In the Warframe I&amp;rsquo;m going to craft Nidus, Sarina, Chrome, Nix and Titania. However, next week I will have both a control on mathematical analysis and a colloquium on analytical geometry, which is sad, frankly&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific programming languages</title>
+      <link>http://localhost:44717/en/post/post8_programming-languages-for-scientists/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:44717/en/post/post8_programming-languages-for-scientists/</guid>
+      <description>&lt;h2 id=&#34;general-information&#34;&gt;General information&lt;/h2&gt;
+&lt;p&gt;In computer programming, a scientific programming language can refer to two degrees of the same concept.&lt;/p&gt;
+&lt;p&gt;Broadly speaking, a scientific programming language is a programming language that is widely used for computational science and computational mathematics. In this sense, C/C + + and Python can be considered scientific programming languages.&lt;/p&gt;
+&lt;p&gt;More broadly, a scientific programming language is one that is designed and optimized to use mathematical formulas and matrices. Such languages ​ ​ are characterized not only by the presence of libraries that perform mathematical or scientific functions, but also by the syntax of the language itself. For example, neither C++ nor Python have embedded matrix types or functions for matrix arithmetic (addition, multiplication, etc.); instead, this functionality is made available through standard libraries.&lt;/p&gt;
+&lt;p&gt;Scientific programming languages should not be confused with scientific language in general, which broadly refers to the higher standards of accuracy, correctness, and compactness expected of practitioners of the scientific method.&lt;/p&gt;
+&lt;h2 id=&#34;members&#34;&gt;Members&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ALGOL;&lt;/li&gt;
+&lt;li&gt;APL;&lt;/li&gt;
+&lt;li&gt;Fortain;&lt;/li&gt;
+&lt;li&gt;J;&lt;/li&gt;
+&lt;li&gt;Julia;&lt;/li&gt;
+&lt;li&gt;Maple;&lt;/li&gt;
+&lt;li&gt;MATLAB;&lt;/li&gt;
+&lt;li&gt;Octave;&lt;/li&gt;
+&lt;li&gt;R.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preparation of the report</title>
+      <link>http://localhost:44717/en/post/post6_report-decor/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:44717/en/post/post6_report-decor/</guid>
+      <description>&lt;h2 id=&#34;design-rules-in-accordance-with-gost-15-2001-and-gost-71-2003&#34;&gt;Design rules in accordance with GOST 1.5-2001 and GOST 7.1-2003&lt;/h2&gt;
+&lt;p&gt;The text of the practice report should be typed on a computer in Times New Roman font of 14 pt. (the text is formatted using the Microsoft Word text editor). The font used in the illustrative material (tables and figures) is recommended to be reduced to 12 pt. The line spacing in the main text is one and a half. In the illustrative material, line spacing is recommended to be made single. Page fields must be:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;left field - 30 mm;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;right field - 10 mm;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;upper and lower fields - 20 mm.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Each paragraph must start with a red line. The indent of the paragraph is 12.5 mm. from the left border of the text.&lt;/p&gt;
+&lt;p&gt;Each section of the report must start with a new page. The name of the structural elements of the report &amp;ldquo;CONTENTS,&amp;rdquo; &amp;ldquo;INTRODUCTION,&amp;rdquo; &amp;ldquo;CONCLUSION,&amp;rdquo; &amp;ldquo;REFERENCES,&amp;rdquo; &amp;ldquo;APPENDIX,&amp;rdquo; as well as section headings should be printed in capital letters and located in the middle of the line. Sections are numbered with Arabic numerals (1, 2, 3). There is no dot at the end of the headings.&lt;/p&gt;
+&lt;p&gt;Section headings can be bold. Underlining in headings, the use of two or more types of highlighting in headings (for example, italics and bold, italics and another color other than the main text), word wrapping in chapter headings, as well as the use of non-standard characters in the text of the report, and the use of abbreviations in headings are not allowed. In the text of the report, abbreviations of terms are allowed only after the introduction of a meaningful definition of this term. All report pages (except attachments) shall be numbered starting with &amp;ldquo;Introduction,&amp;rdquo; which shall be numbered with 3. Page numbers are located in the center of the bottom of the sheet without a dot.&lt;/p&gt;
+&lt;p&gt;Illustrative material (tables, figures, formulas) is included in the report for the purpose of clarity of argumentation and justification of the conclusions received by the student. Thus, only material that contributes to a better justification of the conclusions obtained by the student is placed in the main part of the report. Tables, reporting forms and other factual material, which is the initial data on which the study was based, are not included in the main text of the work, but can be placed in the appendix. It is recommended to include tables and figures based on the initial actual data directly in the main text of the report. All illustrative material should, where possible, be placed after the first reference to it in the text.&lt;/p&gt;
+&lt;p&gt;Illustrations are numbered within sections. An illustration number consists of a section number and an illustration sequence number separated by a period. No dot is placed at the end. If the table is borrowed from a book or article by another author, it should be referenced at the end of the title, taking into account the requirements of these guidelines. It is not allowed to leave free cells in the table columns. If the corresponding data is not available, a dash is put in the column. Units of measurement shall be specified for digital table data. If the table data has different units, then they are indicated in the corresponding headings of the columns or rows of the table. If all table data have the same unit of measurement, then this unit, starting with the preposition &amp;ldquo;c,&amp;rdquo; is given above the table after the name separated by commas (for example, in thousand rubles, in hectares, in sq. M., in percent, etc.).&lt;/p&gt;
+&lt;p&gt;If necessary, you can move the table to another page. In this case, the following design option is applied. The column (or row) headings of the table are numbered, and the next page does not repeat the text of the headings, but only the corresponding column (row) number. Above the continuation of the table, the words &amp;ldquo;Continuation of Table 1.1&amp;rdquo; are printed on the top right. The table name is not repeated on the new page. It is not allowed to start the table at the bottom of the page if after the name of the table there is only a header part, or a header part plus one or two lines of content, and the main part of the table is on the next sheet. You cannot move a table to the next page if you move one or two rows of table content to the next page. In this case, you should either slightly reduce the font size used in the table so that the table fits entirely on the previous sheet; or slightly increase the spacing between the rows of the table so that the table is more evenly spaced on the pages. Pictures include pictures, diagrams, diagrams, graphs, etc. If a table or figure by volume occupies more than one page, then they must be put in the appendix to the report. The placement of the figures in the report is the same as for other illustrative material, that is, either immediately after the link to it, or on the page closest to this link. Pictures should be placed in the text so that they can be considered without turning the work. All figures shall be numbered within the sections with Arabic numerals: Figure 2.1. Immediately after the designation of the numbering of the picture, a meaningful title follows. The picture number and title are placed at the bottom of the picture, centered on the picture.&lt;/p&gt;
+&lt;p&gt;Equations and formulas should be separated from the text into a separate line. In formulas, symbols established by the relevant state standards and reflected in the formula format should be used as symbols.&lt;/p&gt;
+&lt;p&gt;Literature sources used in the process of writing the report are indicated at the end of the work before the application.&lt;/p&gt;
+&lt;p&gt;An example of the design of a bibliographic description:&lt;/p&gt;
+&lt;p&gt;Normative legal acts Constitution of the Russian Federation: official. text. - M.: Marketing, 2017. - 39 p. Family Code of the Russian Federation: [feder. law: adopted by the State. Duma Dec. 8, 1995: as of Jan. 3, 2001]. - St. Petersburg: Staun Country, 2001. - 94 s.&lt;/p&gt;
+&lt;p&gt;One-volume book by one author: Glazunov V.A. Spatial mechanisms of parallel structure. M.: Science, 1991. 94 pp.&lt;/p&gt;
+&lt;p&gt;A one-volume book by two or more authors: Abalakin V.K., Aksenov E.P., Grebenikov E.A., Demin V.G., Ryabov Yu.A. Reference Guide to Celestial Mechanics and Astrodynamics/ed. G.N. Duboshina. M.: Science, 1976. 864 p. Marshak I.S., Doinikov A.S., Zhiltsov V.P., Kirsanov V.P., Rovinsky RE, Schukin L.N., Feigenbaum M.G. Pulsed light sources/under the general. ed. I.S. Marshak. 2nd ed., Revised and add. M.: Energy, 1978. 472 p. Translation book: Sebehey V. Theory of orbits: a limited problem of three bodies: trans. from English/ed. G.N. Duboshin. M.: Science, 1982. 656 с. [Victor G. Szebehely. Theory of Orbits: the Restricted Problem of Three Bodies. New York : Academic Press, 1967.]. Date K.J. Introduction to database systems: translated from English M.: Williams, 2006. 1328 с. [Date C.J. An Introduction to Database Systems. 8th ed. AddisonWesley, 2003. 1024 p.]&lt;/p&gt;
+&lt;p&gt;Separate volume of the multi-volume edition: Welding and weldable materials: reference book. In 3 vol. 1. Weldability of materials/ed. E.L. Makarov. M.: Metallurgy, 1991. 258 p. Thesis: Pnev A.B. Optical-electronic measuring systems based on quasi-distributed fiber-optic Bragg sensors: dis&amp;hellip;. Candidate of Technology sciences. M., 2008. 176 s.&lt;/p&gt;
+&lt;p&gt;Thesis abstract: Vishnyakov I.V. Models and methods for assessing commercial banks in conditions of uncertainty: abstract. dis&amp;hellip;. cand. econ. sciences. M., 2002. 15 p. Analytical review: Economics and politics of Russia and neighboring countries: analyte. review, Apr 2007/Ros. acad. sciences, Institute of World Economy and International Relations. M.,: IMEMO, 2007. 39 pp.&lt;/p&gt;
+&lt;p&gt;Scientific work deposited: Gromov Yu.Yu., Derevuz M.M., Zemskoy N.A., Ivanova O.G., Mosyagina N.G. Algorithm of numerical solution of rigid differential equations/Tambov State Technical University. Tambov, 1999. 8 p. Dep. at VINITI 04.03.1999, No. 669-V1999. Standard: GOST R 517721-2001. Electronic household equipment. Input and output parameters and connection types.&lt;/p&gt;
+&lt;p&gt;Technical requirements. Tikhanovskaya. 2002- 01-01. M.: Publishing House of Standards, 2001. 27 p. Patent: Chugaeva V.I. Transceiver: Pat. 2187888 Russian Federation. 2002. Bul. No. 23 (2 hours). 3 p.&lt;/p&gt;
+&lt;p&gt;Article in the periodical: Tchaikovsky M.M., Yadykin I.B. Optimal setting of PID controllers for multi-connected bilinear control objects//Automation and telemechanics. 2009. № 1. S. 130-146. Zvyagin F.V. About one class of orbits in the problems of three and four bodies//Bulletin of MSTU named after N.E. Bauman. Ser. Instrument making. 2010. № 2. S. 105-113. Stankevich I.V., Yakovlev ME, Si Tu Htet. Development of a contact interaction algorithm based on an alternating method//Bulletin of MSTU named after N.E. Bauman. Ser. Natural sciences. 2011. Special. vol. &amp;ldquo;Applied Mathematics.&amp;rdquo; S. 134-141.&lt;/p&gt;
+&lt;p&gt;Article in the collection: Dvinyaninova G.S. Compliment: Communicative status or strategy in discourse//Social power of language: Sat. scientific. tr. Voronezh, 2001. S. 42-49. Orlik A.G., Kobernik N.V. Obtaining wear-resistant anti-abrasive coatings//Proceedings of MSTU named after N.E. Bauman. 2010. No. 602: Mathematical modeling of complex technical systems. S. 34-38. Article in the ongoing publication: Belova G.D. Some issues of criminal liability for violation of tax legislation//Actual. problems prosecutor. supervision. 2001. No. 5: Prosecutorial supervision of the implementation of criminal and criminal procedure legislation. Organization of the activities of the prosecutor&amp;rsquo;s office. S. 46-49. Painters V.P., Pyatosin L.P. Complex compounds of thorium with diantipyrylmethane//Uchen. West/Perm un-t. 1970. № 207. S. 184-191. Work in the conference materials: Karpenko A.P., Seliverstov E.Yu. Global optimization by the method of swarming particles on GPUs//All-Russia. supercomputer conference &amp;ldquo;Scientific service on the Internet: scalability, parallelism, efficiency&amp;rdquo;: proceedings. M.: Publishing House of Moscow State University, 2009. S. 188-191. Simonov A. Wastewater treatment: design of technical devices//7th regional conference of young researchers of the Volgograd region (Volgograd, May 12-15, 2002): tez. doc. Volgograd, 2002. S. 13-15.&lt;/p&gt;
+&lt;p&gt;Chapter in the book: Berliner EM, Glazyrina IB, Glazyrin B.E. Automation of individual operations in Word 2000//Office 2000:5 books. in 1: self-taught. 2nd ed., Revised M., 2002. Ch. 14. PP. 281-298. Article in the multivolume edition: Kulakov V.A. Victorian style//BDT. M., 2006. VOL. 5. S. 308-309.&lt;/p&gt;
+&lt;p&gt;The report does not recommend retelling the content of textbooks, teaching aids, regulatory and special literature. This information should be revised and presented in the content of the work. Direct borrowing from sources without reference to the author or normative document is unacceptable. When using digital data, provisions from official documents, citations and other published materials, the student must indicate the source and make a link in square brackets. Example: [12, p. 34], which means: 12 - source number in the list of references, 34 - page number. The application contains materials that supplement the text of the report. For example, the data used for calculations; intermediate tables and diagrams that influenced the construction of the final tables and figures; intermediate calculations showing the dynamics of the student&amp;rsquo;s evidence development; description of algorithms; tables and figures of non-standard format, etc. Applications are placed in the work after the reference list. Each application is numbered sequentially in Arabic numerals. If the application is more than one page, then it is transferred to another page and at the top is designated as &amp;ldquo;Continuation of the application&amp;hellip;.&amp;rdquo; All appendices shall be referenced in the report text. The location of the appendices at the end of the document should correspond to the order in which they are referenced in the text. Each application starts with a new page. In the upper right corner of the page, the word &amp;ldquo;APPENDIX&amp;rdquo; is indicated and its serial number is placed (for example, &amp;ldquo;APPENDIX 1&amp;rdquo;). Each appendix shall have a title, which shall be indicated on the next line after the word &amp;ldquo;APPENDIX,&amp;rdquo; and this title shall be centered relative to the text. If documents are in large format, they must be stacked in A4 format. In this case, one page of such a non-standard size is numbered as one page of the application (without taking into account its addition).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>http://localhost:44717/en/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:44717/en/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>http://localhost:44717/en/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:44717/en/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-hugo-blox-builder&#34;&gt;Create slides in Markdown with Hugo Blox Builder&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; | &lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revealjs.com/pdf-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>http://localhost:44717/en/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:44717/en/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>http://localhost:44717/en/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:44717/en/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

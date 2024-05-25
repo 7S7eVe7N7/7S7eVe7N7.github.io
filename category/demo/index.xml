@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo | Academic</title>
-    <link>https://example.com/category/demo/</link>
-      <atom:link href="https://example.com/category/demo/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/category/demo/</link>
+      <atom:link href="http://localhost:1313/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
-      <link>https://example.com/category/demo/</link>
+      <link>http://localhost:1313/category/demo/</link>
     </image>
     
     <item>
       <title>Как прошла моя неделя? Часть 4</title>
-      <link>https://example.com/post/post7_last-week/</link>
+      <link>http://localhost:1313/post/post7_last-week/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post7_last-week/</guid>
+      <guid>http://localhost:1313/post/post7_last-week/</guid>
       <description>&lt;h2 id=&#34;ничего-интересного-в-моей-жизни-не-произошло&#34;&gt;Ничего интересного в моей жизни не произошло&lt;/h2&gt;
 &lt;p&gt;По сути, так и есть. В варфе собираюсь крафтить Нидуса, Сарину, Хрому, Никс и Титанию. Однако на следующей неделе меня ожидает и контрольная по матану, и колоквиум по ангему, а это печально, честно говоря&amp;hellip;&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Как прошла моя неделя? Часть 3</title>
-      <link>https://example.com/post/post5_last-week/</link>
+      <link>http://localhost:1313/post/post5_last-week/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post5_last-week/</guid>
+      <guid>http://localhost:1313/post/post5_last-week/</guid>
       <description>&lt;h2 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h2&gt;
 &lt;p&gt;Прошло две недели с момента последней записи по прошедшей недели, я получил таки Гаусса Прайм (зацените фоточку):&lt;/p&gt;
 &lt;img src=&#34;1.jpeg&#34; alt=&#34;drawing&#34; width=55%/&gt;
@@ -49,9 +49,9 @@
     
     <item>
       <title>Оформление отчёта</title>
-      <link>https://example.com/post/post6_report-decor/</link>
+      <link>http://localhost:1313/post/post6_report-decor/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post6_report-decor/</guid>
+      <guid>http://localhost:1313/post/post6_report-decor/</guid>
       <description>&lt;h2 id=&#34;правила-оформления-в-соответствии-с-гост-15-2001-и-гост-71-2003&#34;&gt;Правила оформления в соответствии с ГОСТ 1.5-2001 и ГОСТ 7.1-2003&lt;/h2&gt;
 &lt;p&gt;Текст отчета по практике должен быть набран на компьютере шрифтом Times New Roman размером 14 пт. (при оформлении текста используется текстовый редактор Microsoft Word). Шрифт, используемый в иллюстративном материале (таблицы и рисунки), рекомендуется уменьшить до 12 пт. Межстрочный интервал в основном тексте - полуторный. В иллюстративном материале межстрочный интервал рекомендуется сделать одинарным. Поля страницы должны быть:&lt;/p&gt;
 &lt;ul&gt;
@@ -89,10 +89,35 @@
     </item>
     
     <item>
+      <title>Легковесные языки разметки</title>
+      <link>http://localhost:1313/post/post4_markdown/</link>
+      <pubDate>Sat, 20 Apr 2024 23:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post4_markdown/</guid>
+      <description>&lt;h2 id=&#34;общая-информация&#34;&gt;Общая информация&lt;/h2&gt;
+&lt;p&gt;Облегченные языки разметки используются в приложениях, где пользователей можно обманом заставить прочитать исходный документ, а также правильно отрисованный документ. Например, статьи в Википедии написаны с использованием облегченного языка разметки, вики-текста.&lt;/p&gt;
+&lt;p&gt;Другой пример: человек, загружающий программную библиотеку, может предпочесть читать документацию в текстовом редакторе, а не в веб-браузере.&lt;/p&gt;
+&lt;p&gt;Основное применение этих языков - ввод контента для веб-сайта с участием различных авторов, таких как блоги и вики , для которых единственный гарантированный интерфейс, доступный для всех авторов, - это простое текстовое поле.&lt;/p&gt;
+&lt;h2 id=&#34;представители&#34;&gt;Представители&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Markdown&lt;/li&gt;
+&lt;li&gt;Org-mode&lt;/li&gt;
+&lt;li&gt;BBCode&lt;/li&gt;
+&lt;li&gt;reStructuredText&lt;/li&gt;
+&lt;li&gt;Textile&lt;/li&gt;
+&lt;li&gt;Вики-разметка&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;легковесные-языки-для-записи-математических-выражений&#34;&gt;Легковесные языки для записи математических выражений&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;AsciiMath&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Как прошла моя неделя? Часть 2</title>
-      <link>https://example.com/post/post3_last-week/</link>
+      <link>http://localhost:1313/post/post3_last-week/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post3_last-week/</guid>
+      <guid>http://localhost:1313/post/post3_last-week/</guid>
       <description>&lt;h2 id=&#34;понедельник---день-фарма&#34;&gt;Понедельник - день фарма&lt;/h2&gt;
 &lt;p&gt;В понедельник я наконец-то закончил все задания для получения Экскалибура Умбра (потратил на это 3 дня) в Warframe. Зацените этого красавца:&lt;/p&gt;
 &lt;img src=&#34;1.jpeg&#34; alt=&#34;drawing&#34; width=55%/&gt;
@@ -118,9 +143,9 @@
     
     <item>
       <title>Управление версиями Git</title>
-      <link>https://example.com/post/post2_git/</link>
+      <link>http://localhost:1313/post/post2_git/</link>
       <pubDate>Wed, 20 Mar 2024 23:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post2_git/</guid>
+      <guid>http://localhost:1313/post/post2_git/</guid>
       <description>&lt;h2 id=&#34;о-системе-контроля-версий&#34;&gt;О системе контроля версий&lt;/h2&gt;
 &lt;p&gt;Система контроля версий — это система, записывающая изменения в файл или набор файлов в течение времени и позволяющая вернуться позже к определённой версии. Для контроля версий файлов в этой книге в качестве примера будет использоваться исходный код программного обеспечения, хотя на самом деле вы можете использовать контроль версий практически для любых типов файлов.&lt;/p&gt;
 &lt;h2 id=&#34;локальные-системы-контроля-версий&#34;&gt;Локальные системы контроля версий&lt;/h2&gt;
@@ -142,9 +167,9 @@
     
     <item>
       <title>Как прошла моя неделя?</title>
-      <link>https://example.com/post/post1_last-week/</link>
+      <link>http://localhost:1313/post/post1_last-week/</link>
       <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post1_last-week/</guid>
+      <guid>http://localhost:1313/post/post1_last-week/</guid>
       <description>&lt;h2 id=&#34;понедельник---день-бездельник&#34;&gt;Понедельник - день бездельник&lt;/h2&gt;
 &lt;p&gt;По понедельникам пары у нас на дистанте, поэтому можно отдыхать. Встаю я в 9 утра, подключаюсь к занятию, а сам иду на кухню за едой. После плотного завтрака можно и поиграть. Делаю звук игры тише и спокойно фармлю в замечательной игре Warfame.&lt;/p&gt;
 &lt;img src=&#34;1.png&#34; alt=&#34;drawing&#34; width=55%/&gt;

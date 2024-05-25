@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https://example.com/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
+      <link>http://localhost:1313/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
+      <guid>http://localhost:1313/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>Циклы в Python</title>
-      <link>https://example.com/project/project1_python_for_while/</link>
+      <link>http://localhost:1313/project/project1_python_for_while/</link>
       <pubDate>Fri, 10 May 2024 20:00:00 +0000</pubDate>
-      <guid>https://example.com/project/project1_python_for_while/</guid>
+      <guid>http://localhost:1313/project/project1_python_for_while/</guid>
       <description>&lt;h1 id=&#34;циклы&#34;&gt;Циклы&lt;/h1&gt;
 &lt;p&gt;Циклы позволяют выполнять некоторое действие в зависимости от соблюдения некоторого условия. В языке Python есть следующие типы циклов:&lt;/p&gt;
 &lt;ul&gt;
@@ -89,9 +89,9 @@
     
     <item>
       <title>Как прошла моя неделя? Часть 4</title>
-      <link>https://example.com/post/post7_last-week/</link>
+      <link>http://localhost:1313/post/post7_last-week/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post7_last-week/</guid>
+      <guid>http://localhost:1313/post/post7_last-week/</guid>
       <description>&lt;h2 id=&#34;ничего-интересного-в-моей-жизни-не-произошло&#34;&gt;Ничего интересного в моей жизни не произошло&lt;/h2&gt;
 &lt;p&gt;По сути, так и есть. В варфе собираюсь крафтить Нидуса, Сарину, Хрому, Никс и Титанию. Однако на следующей неделе меня ожидает и контрольная по матану, и колоквиум по ангему, а это печально, честно говоря&amp;hellip;&lt;/p&gt;
 </description>
@@ -99,9 +99,9 @@
     
     <item>
       <title>Языки научного программирования</title>
-      <link>https://example.com/post/post8_programming-languages-for-scientists/</link>
+      <link>http://localhost:1313/post/post8_programming-languages-for-scientists/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post8_programming-languages-for-scientists/</guid>
+      <guid>http://localhost:1313/post/post8_programming-languages-for-scientists/</guid>
       <description>&lt;h2 id=&#34;общая-информация&#34;&gt;Общая информация&lt;/h2&gt;
 &lt;p&gt;В компьютерном программировании научный язык программирования может относиться к двум степеням одного и того же понятия.&lt;/p&gt;
 &lt;p&gt;В широком смысле научный язык программирования - это язык программирования, который широко используется для вычислительной науки и вычислительной математики. В этом смысле C / C ++ и Python можно считать языками научного программирования.&lt;/p&gt;
@@ -124,9 +124,9 @@
     
     <item>
       <title>Оформление отчёта</title>
-      <link>https://example.com/post/post6_report-decor/</link>
+      <link>http://localhost:1313/post/post6_report-decor/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post6_report-decor/</guid>
+      <guid>http://localhost:1313/post/post6_report-decor/</guid>
       <description>&lt;h2 id=&#34;правила-оформления-в-соответствии-с-гост-15-2001-и-гост-71-2003&#34;&gt;Правила оформления в соответствии с ГОСТ 1.5-2001 и ГОСТ 7.1-2003&lt;/h2&gt;
 &lt;p&gt;Текст отчета по практике должен быть набран на компьютере шрифтом Times New Roman размером 14 пт. (при оформлении текста используется текстовый редактор Microsoft Word). Шрифт, используемый в иллюстративном материале (таблицы и рисунки), рекомендуется уменьшить до 12 пт. Межстрочный интервал в основном тексте - полуторный. В иллюстративном материале межстрочный интервал рекомендуется сделать одинарным. Поля страницы должны быть:&lt;/p&gt;
 &lt;ul&gt;
@@ -165,9 +165,9 @@
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
+      <link>http://localhost:1313/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
+      <guid>http://localhost:1313/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -179,9 +179,9 @@
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>http://localhost:1313/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>http://localhost:1313/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-hugo-blox-builder&#34;&gt;Create slides in Markdown with Hugo Blox Builder&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; | &lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -304,9 +304,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
+      <link>http://localhost:1313/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
+      <guid>http://localhost:1313/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -323,9 +323,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
+      <link>http://localhost:1313/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
+      <guid>http://localhost:1313/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
