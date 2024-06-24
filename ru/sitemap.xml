@@ -2,424 +2,424 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ru/talk/example-talk/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/talk/example-talk/"
+                href="https://7s7eve7n7.github.io/en/talk/example-talk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/talk/example-talk/"
+                href="https://7s7eve7n7.github.io/ru/talk/example-talk/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/event/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/event/"
+                href="https://7s7eve7n7.github.io/en/event/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/event/"
+                href="https://7s7eve7n7.github.io/ru/event/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/tag/deep-learning/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/tag/deep-learning/</loc>
     <lastmod>2024-05-10T20:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tag/deep-learning/"
+                href="https://7s7eve7n7.github.io/en/tag/deep-learning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/tag/deep-learning/"
+                href="https://7s7eve7n7.github.io/ru/tag/deep-learning/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/project/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/project/</loc>
     <lastmod>2024-05-10T20:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/project/"
+                href="https://7s7eve7n7.github.io/en/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/project/"
+                href="https://7s7eve7n7.github.io/ru/project/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/tags/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/tags/</loc>
     <lastmod>2024-05-10T20:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/"
+                href="https://7s7eve7n7.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/tags/"
+                href="https://7s7eve7n7.github.io/ru/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/project/project1_python_for_while/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/project/project1_python_for_while/</loc>
     <lastmod>2024-05-10T20:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/project/project1_python_for_while/"
+                href="https://7s7eve7n7.github.io/en/project/project1_python_for_while/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/project/project1_python_for_while/"
+                href="https://7s7eve7n7.github.io/ru/project/project1_python_for_while/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/tag/academic/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/tag/academic/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tag/academic/"
+                href="https://7s7eve7n7.github.io/en/tag/academic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/tag/academic/"
+                href="https://7s7eve7n7.github.io/ru/tag/academic/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/categories/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/categories/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/categories/"
+                href="https://7s7eve7n7.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/categories/"
+                href="https://7s7eve7n7.github.io/ru/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/category/demo/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/category/demo/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/category/demo/"
+                href="https://7s7eve7n7.github.io/en/category/demo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/category/demo/"
+                href="https://7s7eve7n7.github.io/ru/category/demo/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/post/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/post/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/"
+                href="https://7s7eve7n7.github.io/en/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/post/"
+                href="https://7s7eve7n7.github.io/ru/post/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/post/post7_last-week/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/post/post7_last-week/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/post7_last-week/"
+                href="https://7s7eve7n7.github.io/en/post/post7_last-week/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/post/post7_last-week/"
+                href="https://7s7eve7n7.github.io/ru/post/post7_last-week/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/post/post8_programming-languages-for-scientists/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/post/post8_programming-languages-for-scientists/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/post8_programming-languages-for-scientists/"
+                href="https://7s7eve7n7.github.io/en/post/post8_programming-languages-for-scientists/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/post/post8_programming-languages-for-scientists/"
+                href="https://7s7eve7n7.github.io/ru/post/post8_programming-languages-for-scientists/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/post/post5_last-week/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/post/post5_last-week/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/post5_last-week/"
+                href="https://7s7eve7n7.github.io/en/post/post5_last-week/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/post/post5_last-week/"
+                href="https://7s7eve7n7.github.io/ru/post/post5_last-week/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/post/post6_report-decor/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/post/post6_report-decor/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/post6_report-decor/"
+                href="https://7s7eve7n7.github.io/en/post/post6_report-decor/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/post/post6_report-decor/"
+                href="https://7s7eve7n7.github.io/ru/post/post6_report-decor/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/post/post4_markdown/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/post/post4_markdown/</loc>
     <lastmod>2024-04-20T23:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/post4_markdown/"
+                href="https://7s7eve7n7.github.io/en/post/post4_markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/post/post4_markdown/"
+                href="https://7s7eve7n7.github.io/ru/post/post4_markdown/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/post/post3_last-week/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/post/post3_last-week/</loc>
     <lastmod>2024-04-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/post3_last-week/"
+                href="https://7s7eve7n7.github.io/en/post/post3_last-week/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/post/post3_last-week/"
+                href="https://7s7eve7n7.github.io/ru/post/post3_last-week/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/post/post2_git/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/post/post2_git/</loc>
     <lastmod>2024-03-20T23:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/post2_git/"
+                href="https://7s7eve7n7.github.io/en/post/post2_git/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/post/post2_git/"
+                href="https://7s7eve7n7.github.io/ru/post/post2_git/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/post/post1_last-week/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/post/post1_last-week/</loc>
     <lastmod>2024-03-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/post1_last-week/"
+                href="https://7s7eve7n7.github.io/en/post/post1_last-week/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/post/post1_last-week/"
+                href="https://7s7eve7n7.github.io/ru/post/post1_last-week/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/"
+                href="https://7s7eve7n7.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/"
+                href="https://7s7eve7n7.github.io/ru/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/publication-type/article/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/publication-type/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication-type/article/"
+                href="https://7s7eve7n7.github.io/en/publication-type/article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/publication-type/article/"
+                href="https://7s7eve7n7.github.io/ru/publication-type/article/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/publication_types/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication_types/"
+                href="https://7s7eve7n7.github.io/en/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/publication_types/"
+                href="https://7s7eve7n7.github.io/ru/publication_types/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/publication/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication/"
+                href="https://7s7eve7n7.github.io/en/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/publication/"
+                href="https://7s7eve7n7.github.io/ru/publication/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/tag/source-themes/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tag/source-themes/"
+                href="https://7s7eve7n7.github.io/en/tag/source-themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/tag/source-themes/"
+                href="https://7s7eve7n7.github.io/ru/tag/source-themes/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/publication/preprint/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication/preprint/"
+                href="https://7s7eve7n7.github.io/en/publication/preprint/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/publication/preprint/"
+                href="https://7s7eve7n7.github.io/ru/publication/preprint/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/slides/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/slides/"
+                href="https://7s7eve7n7.github.io/en/slides/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/slides/"
+                href="https://7s7eve7n7.github.io/ru/slides/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/slides/example/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/slides/example/"
+                href="https://7s7eve7n7.github.io/en/slides/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/slides/example/"
+                href="https://7s7eve7n7.github.io/ru/slides/example/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/publication-type/article-journal/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/publication-type/article-journal/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication-type/article-journal/"
+                href="https://7s7eve7n7.github.io/en/publication-type/article-journal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/publication-type/article-journal/"
+                href="https://7s7eve7n7.github.io/ru/publication-type/article-journal/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/publication/journal-article/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication/journal-article/"
+                href="https://7s7eve7n7.github.io/en/publication/journal-article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/publication/journal-article/"
+                href="https://7s7eve7n7.github.io/ru/publication/journal-article/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/publication-type/paper-conference/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/publication-type/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication-type/paper-conference/"
+                href="https://7s7eve7n7.github.io/en/publication-type/paper-conference/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/publication-type/paper-conference/"
+                href="https://7s7eve7n7.github.io/ru/publication-type/paper-conference/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/publication/conference-paper/</loc>
+    <loc>https://7s7eve7n7.github.io/ru/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication/conference-paper/"
+                href="https://7s7eve7n7.github.io/en/publication/conference-paper/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/publication/conference-paper/"
+                href="https://7s7eve7n7.github.io/ru/publication/conference-paper/"
                 />
   </url>
 </urlset>

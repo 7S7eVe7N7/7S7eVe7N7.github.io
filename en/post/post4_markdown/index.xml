@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lightweight Markup Languages | Myagmar Urgindorj</title>
-    <link>http://localhost:1313/en/post/post4_markdown/</link>
-      <atom:link href="http://localhost:1313/en/post/post4_markdown/index.xml" rel="self" type="application/rss+xml" />
+    <title>Lightweight Markup Languages | Myagmar Urhindorj</title>
+    <link>https://7s7eve7n7.github.io/en/post/post4_markdown/</link>
+      <atom:link href="https://7s7eve7n7.github.io/en/post/post4_markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Lightweight Markup Languages</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Apr 2024 23:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/en/post/post4_markdown/featured.jpg</url>
+      <url>https://7s7eve7n7.github.io/en/post/post4_markdown/featured.jpg</url>
       <title>Lightweight Markup Languages</title>
-      <link>http://localhost:1313/en/post/post4_markdown/</link>
+      <link>https://7s7eve7n7.github.io/en/post/post4_markdown/</link>
     </image>
     
   </channel>

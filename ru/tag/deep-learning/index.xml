@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep Learning | Myagmar Urgindorj</title>
-    <link>http://localhost:1313/ru/tag/deep-learning/</link>
-      <atom:link href="http://localhost:1313/ru/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <title>Deep Learning | Myagmar Urhindorj</title>
+    <link>https://7s7eve7n7.github.io/ru/tag/deep-learning/</link>
+      <atom:link href="https://7s7eve7n7.github.io/ru/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 10 May 2024 20:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://7s7eve7n7.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
-      <link>http://localhost:1313/ru/tag/deep-learning/</link>
+      <link>https://7s7eve7n7.github.io/ru/tag/deep-learning/</link>
     </image>
     
     <item>
       <title>Циклы в Python</title>
-      <link>http://localhost:1313/ru/project/project1_python_for_while/</link>
+      <link>https://7s7eve7n7.github.io/ru/project/project1_python_for_while/</link>
       <pubDate>Fri, 10 May 2024 20:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/project/project1_python_for_while/</guid>
+      <guid>https://7s7eve7n7.github.io/ru/project/project1_python_for_while/</guid>
       <description>&lt;h1 id=&#34;циклы&#34;&gt;Циклы&lt;/h1&gt;
 &lt;p&gt;Циклы позволяют выполнять некоторое действие в зависимости от соблюдения некоторого условия. В языке Python есть следующие типы циклов:&lt;/p&gt;
 &lt;ul&gt;
