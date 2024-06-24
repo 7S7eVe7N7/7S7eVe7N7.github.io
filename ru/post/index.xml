@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Mashkov I.E.</title>
-    <link>https://7s7eve7n7.github.io/ru/post/</link>
-      <atom:link href="https://7s7eve7n7.github.io/ru/post/index.xml" rel="self" type="application/rss+xml" />
+    <title>Posts | Myagmar Urgindorj</title>
+    <link>http://localhost:1313/ru/post/</link>
+      <atom:link href="http://localhost:1313/ru/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://7s7eve7n7.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://7s7eve7n7.github.io/ru/post/</link>
+      <link>http://localhost:1313/ru/post/</link>
     </image>
     
     <item>
       <title>Как прошла моя неделя? Часть 4</title>
-      <link>https://7s7eve7n7.github.io/ru/post/post7_last-week/</link>
+      <link>http://localhost:1313/ru/post/post7_last-week/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://7s7eve7n7.github.io/ru/post/post7_last-week/</guid>
+      <guid>http://localhost:1313/ru/post/post7_last-week/</guid>
       <description>&lt;h2 id=&#34;ничего-интересного-в-моей-жизни-не-произошло&#34;&gt;Ничего интересного в моей жизни не произошло&lt;/h2&gt;
 &lt;p&gt;По сути, так и есть. В варфе собираюсь крафтить Нидуса, Сарину, Хрому, Никс и Титанию. Однако на следующей неделе меня ожидает и контрольная по матану, и колоквиум по ангему, а это печально, честно говоря&amp;hellip;&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Языки научного программирования</title>
-      <link>https://7s7eve7n7.github.io/ru/post/post8_programming-languages-for-scientists/</link>
+      <link>http://localhost:1313/ru/post/post8_programming-languages-for-scientists/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://7s7eve7n7.github.io/ru/post/post8_programming-languages-for-scientists/</guid>
+      <guid>http://localhost:1313/ru/post/post8_programming-languages-for-scientists/</guid>
       <description>&lt;h2 id=&#34;общая-информация&#34;&gt;Общая информация&lt;/h2&gt;
 &lt;p&gt;В компьютерном программировании научный язык программирования может относиться к двум степеням одного и того же понятия.&lt;/p&gt;
 &lt;p&gt;В широком смысле научный язык программирования - это язык программирования, который широко используется для вычислительной науки и вычислительной математики. В этом смысле C / C ++ и Python можно считать языками научного программирования.&lt;/p&gt;
@@ -49,9 +49,9 @@
     
     <item>
       <title>Оформление отчёта</title>
-      <link>https://7s7eve7n7.github.io/ru/post/post6_report-decor/</link>
+      <link>http://localhost:1313/ru/post/post6_report-decor/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://7s7eve7n7.github.io/ru/post/post6_report-decor/</guid>
+      <guid>http://localhost:1313/ru/post/post6_report-decor/</guid>
       <description>&lt;h2 id=&#34;правила-оформления-в-соответствии-с-гост-15-2001-и-гост-71-2003&#34;&gt;Правила оформления в соответствии с ГОСТ 1.5-2001 и ГОСТ 7.1-2003&lt;/h2&gt;
 &lt;p&gt;Текст отчета по практике должен быть набран на компьютере шрифтом Times New Roman размером 14 пт. (при оформлении текста используется текстовый редактор Microsoft Word). Шрифт, используемый в иллюстративном материале (таблицы и рисунки), рекомендуется уменьшить до 12 пт. Межстрочный интервал в основном тексте - полуторный. В иллюстративном материале межстрочный интервал рекомендуется сделать одинарным. Поля страницы должны быть:&lt;/p&gt;
 &lt;ul&gt;

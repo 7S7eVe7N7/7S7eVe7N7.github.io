@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mashkov I.E.</title>
-    <link>https://7s7eve7n7.github.io/en/</link>
-      <atom:link href="https://7s7eve7n7.github.io/en/index.xml" rel="self" type="application/rss+xml" />
-    <description>Mashkov I.E.</description>
+    <title>Myagmar Urgindorj</title>
+    <link>http://localhost:1313/en/</link>
+      <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <description>Myagmar Urgindorj</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://7s7eve7n7.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Mashkov I.E.</title>
-      <link>https://7s7eve7n7.github.io/en/</link>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Myagmar Urgindorj</title>
+      <link>http://localhost:1313/en/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://7s7eve7n7.github.io/en/talk/example-talk/</link>
+      <link>http://localhost:1313/en/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://7s7eve7n7.github.io/en/talk/example-talk/</guid>
+      <guid>http://localhost:1313/en/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>Loops in Python</title>
-      <link>https://7s7eve7n7.github.io/en/project/project1_python_for_while/</link>
+      <link>http://localhost:1313/en/project/project1_python_for_while/</link>
       <pubDate>Fri, 10 May 2024 20:00:00 +0000</pubDate>
-      <guid>https://7s7eve7n7.github.io/en/project/project1_python_for_while/</guid>
+      <guid>http://localhost:1313/en/project/project1_python_for_while/</guid>
       <description>&lt;h1 id=&#34;loops&#34;&gt;Loops&lt;/h1&gt;
 &lt;p&gt;Cycles allow you to perform some action depending on the observance of some condition. Python has the following types of loops:&lt;/p&gt;
 &lt;ul&gt;
@@ -89,9 +89,9 @@
     
     <item>
       <title>How was my week? Part 4</title>
-      <link>https://7s7eve7n7.github.io/en/post/post7_last-week/</link>
+      <link>http://localhost:1313/en/post/post7_last-week/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://7s7eve7n7.github.io/en/post/post7_last-week/</guid>
+      <guid>http://localhost:1313/en/post/post7_last-week/</guid>
       <description>&lt;h2 id=&#34;nothing-interesting-happened-in-my-life&#34;&gt;Nothing interesting happened in my life&lt;/h2&gt;
 &lt;p&gt;In fact, it is. In the Warframe I&amp;rsquo;m going to craft Nidus, Sarina, Chrome, Nix and Titania. However, next week I will have both a control on mathematical analysis and a colloquium on analytical geometry, which is sad, frankly&amp;hellip;&lt;/p&gt;
 </description>
@@ -99,9 +99,9 @@
     
     <item>
       <title>Scientific programming languages</title>
-      <link>https://7s7eve7n7.github.io/en/post/post8_programming-languages-for-scientists/</link>
+      <link>http://localhost:1313/en/post/post8_programming-languages-for-scientists/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://7s7eve7n7.github.io/en/post/post8_programming-languages-for-scientists/</guid>
+      <guid>http://localhost:1313/en/post/post8_programming-languages-for-scientists/</guid>
       <description>&lt;h2 id=&#34;general-information&#34;&gt;General information&lt;/h2&gt;
 &lt;p&gt;In computer programming, a scientific programming language can refer to two degrees of the same concept.&lt;/p&gt;
 &lt;p&gt;Broadly speaking, a scientific programming language is a programming language that is widely used for computational science and computational mathematics. In this sense, C/C + + and Python can be considered scientific programming languages.&lt;/p&gt;
@@ -124,9 +124,9 @@
     
     <item>
       <title>Preparation of the report</title>
-      <link>https://7s7eve7n7.github.io/en/post/post6_report-decor/</link>
+      <link>http://localhost:1313/en/post/post6_report-decor/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://7s7eve7n7.github.io/en/post/post6_report-decor/</guid>
+      <guid>http://localhost:1313/en/post/post6_report-decor/</guid>
       <description>&lt;h2 id=&#34;design-rules-in-accordance-with-gost-15-2001-and-gost-71-2003&#34;&gt;Design rules in accordance with GOST 1.5-2001 and GOST 7.1-2003&lt;/h2&gt;
 &lt;p&gt;The text of the practice report should be typed on a computer in Times New Roman font of 14 pt. (the text is formatted using the Microsoft Word text editor). The font used in the illustrative material (tables and figures) is recommended to be reduced to 12 pt. The line spacing in the main text is one and a half. In the illustrative material, line spacing is recommended to be made single. Page fields must be:&lt;/p&gt;
 &lt;ul&gt;
@@ -165,9 +165,9 @@
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://7s7eve7n7.github.io/en/publication/preprint/</link>
+      <link>http://localhost:1313/en/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://7s7eve7n7.github.io/en/publication/preprint/</guid>
+      <guid>http://localhost:1313/en/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -179,9 +179,9 @@
     
     <item>
       <title>Slides</title>
-      <link>https://7s7eve7n7.github.io/en/slides/example/</link>
+      <link>http://localhost:1313/en/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://7s7eve7n7.github.io/en/slides/example/</guid>
+      <guid>http://localhost:1313/en/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-hugo-blox-builder&#34;&gt;Create slides in Markdown with Hugo Blox Builder&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; | &lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -304,9 +304,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example journal article</title>
-      <link>https://7s7eve7n7.github.io/en/publication/journal-article/</link>
+      <link>http://localhost:1313/en/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://7s7eve7n7.github.io/en/publication/journal-article/</guid>
+      <guid>http://localhost:1313/en/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -323,9 +323,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://7s7eve7n7.github.io/en/publication/conference-paper/</link>
+      <link>http://localhost:1313/en/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://7s7eve7n7.github.io/en/publication/conference-paper/</guid>
+      <guid>http://localhost:1313/en/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
