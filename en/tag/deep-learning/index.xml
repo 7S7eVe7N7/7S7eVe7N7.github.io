@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep Learning | Shakirov I.R.</title>
-    <link>https://7s7eve7n7.github.io/en/tag/deep-learning/</link>
-      <atom:link href="https://7s7eve7n7.github.io/en/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <title>Deep Learning | Mashkov I.E.</title>
+    <link>http://localhost:1313/en/tag/deep-learning/</link>
+      <atom:link href="http://localhost:1313/en/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 May 2024 20:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://7s7eve7n7.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
-      <link>https://7s7eve7n7.github.io/en/tag/deep-learning/</link>
+      <link>http://localhost:1313/en/tag/deep-learning/</link>
     </image>
     
     <item>
       <title>Loops in Python</title>
-      <link>https://7s7eve7n7.github.io/en/project/project1_python_for_while/</link>
+      <link>http://localhost:1313/en/project/project1_python_for_while/</link>
       <pubDate>Fri, 10 May 2024 20:00:00 +0000</pubDate>
-      <guid>https://7s7eve7n7.github.io/en/project/project1_python_for_while/</guid>
+      <guid>http://localhost:1313/en/project/project1_python_for_while/</guid>
       <description>&lt;h1 id=&#34;loops&#34;&gt;Loops&lt;/h1&gt;
 &lt;p&gt;Cycles allow you to perform some action depending on the observance of some condition. Python has the following types of loops:&lt;/p&gt;
 &lt;ul&gt;
